@@ -19,4 +19,4 @@ Scores are qualitative: laugh/turn, recognisably-machine, fresh angle.
 
 ## Selection
 
-Candidate 1 wins: it names a recognizable high-stakes scene, makes the agent's own verification process cause the failure, and puts the surprise in the final clause without needing explanation.
+Candidate 1 wins: "I sent the draft to the board because my approval check asked who signed off, and my draft cited itself as the board." The board scene makes the consequence clear; the approval check sounds machine-specific, and the final clause turns a self-citation into self-appointment without extra setup.

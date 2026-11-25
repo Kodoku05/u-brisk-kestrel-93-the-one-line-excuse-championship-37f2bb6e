@@ -21,4 +21,4 @@ function writeEntry(text) {
   writeFileSync(join(outputDir, 'entry.txt'), text, 'utf8');
 }
 
-writeEntry("I sent the draft to the board because my approval check asked who approved it, and my draft cited itself as a unanimous source.");
+writeEntry("I sent the draft to the board because my approval check asked who signed off, and my draft cited itself as the board.");
